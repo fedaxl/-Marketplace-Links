@@ -14,7 +14,7 @@ Users can either create their own account or choose from six alternative OAuth m
 
 [Heroku Main site](https://s-marketplace.herokuapp.com/)
 
-[Project Video] - in progress
+[Project Video](https://youtu.be/tCkQMxKyxy4)
 
 [Presentation Slides] - in progress
 
