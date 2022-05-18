@@ -18,7 +18,7 @@ Users can either create their own account or choose from six alternative OAuth m
 
 [Final Report](https://github.com/fedaxl/-Marketplace-Links/files/8546943/Final_Report_20091413.pdf)
 
-[Presentation Slides] - in progress
+[Presentation Slides](https://github.com/fedaxl/-Marketplace-Links/files/8715286/20091413-presentation.pptx)
 
 ### Project plan (stacks for each 2 week sprint)
 ![PLAN](https://user-images.githubusercontent.com/22814086/163736921-d09c7178-7908-4205-a044-e8d53718d579.jpg)
